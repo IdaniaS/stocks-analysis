@@ -40,8 +40,12 @@ The outputs in the 2017 and 2018 stock analysis from the file VBA_Challenge.xlsm
 
 ### Dataset 2017: VBA_Challenge_2017.png
 ![2017Stocks](https://user-images.githubusercontent.com/86635590/126084754-89cdbc91-bd5c-429b-a63b-f88aca7ae11f.PNG)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/86635590/126085225-0261dd05-a731-40f6-b7c6-8eb9bad3a718.PNG)
+
 ### Dataset 2018: VBA_Challenge_2018.png
 ![2018Stocks](https://user-images.githubusercontent.com/86635590/126084763-e69d5979-b060-47fa-a406-cc773b80c31b.PNG)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/86635590/126085234-779c4cd0-a11e-4c38-ae47-6364addbff3b.PNG)
+
 
 ## Summary
 ### Advantages and Disadvantages of refactoring code
