@@ -45,5 +45,12 @@ The outputs in the 2017 and 2018 stock analysis from the file VBA_Challenge.xlsm
 
 ## Summary
 ### Advantages and Disadvantages of refactoring code
-- the structure of the code can appear well written and allow for the debugging errors to be approached in a simpler manner
+- Structure of the code appears well written which allows for the debugging of errors to be approached in a simpler manner
+- Simplified code has a possibility of saving time and money in the future as it simplifies the implementation
+- The code makes it easier to reveal patters in a more comprehensible manner becasue it is not as messy
 ### Advantages and Disadvantages of original code
+- The procedure in refactoring can be expensice and risky to implement
+- Time and resources will be dedicated to cleaning up the code which may introduce bugs or very tight scedhule delivery deadlines
+- Complexity of unstructured code is usually best to split in several functions
+
+Code refactoring is the process of restructuring an existing code without changing its external behavior which is intended to improve the implementation. This is alwasys something to consider when writting/editing codes. It has the advantages of being viewed quickly and saving both time and money. However, the opposite can be applied when dealing with duplications within the structure and tight delivery deadlines. It is a situational case but the clean and well-organized code will produce a better outcome in the long run.
