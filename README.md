@@ -16,6 +16,7 @@ improving the logic of the code to make it easier for future users to read.
 
 ## Results
 ### Analysis
+To use the starter code provided in this Project to refactor the VBA Script dataset so as to loop through the data one time and collect all of the information. Analyzing that the refactoring code successfully made the VBA script run faster. 
 
 
 
