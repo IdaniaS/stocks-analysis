@@ -29,21 +29,21 @@ A loop was created to initialize the tickerVolumes to zero. Then a for loop that
 
 The script loops through all the stock data, reading the values from each row. The if-then statment is used to check the current row selected tickerIndex. If the statement matches the variable then it continues to produce the prefered outcome. One if-then statement was focused on formatting the cells in the spreadsheet based on returned valuse. If the data returned was positive the cell was formatted green and if the outcome was negative the cell turned red. 
 
+#### Comments
+When refactoring code, it is not adding new functionality. The code is made more efficient-by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. The comments and documentation describing sections that are edited help other readers with following the code. This means avoiding adding comments that are not helpful or obvious to the reader are best described as being a Dry addtion so you are not repeating information. The best way to keep the code looking clean and easy to read comments is through having a consistent indentaion and code grouping. These comments can be viewed in the photo additions above as a short explanation to what the code is preforming.
+
+
 ![page4](https://user-images.githubusercontent.com/86635590/126084508-55d818fd-e745-4911-89b8-9fb6c47baece.PNG)
 ![page50](https://user-images.githubusercontent.com/86635590/126084553-c6de3799-e5c5-47c6-8387-adf7ce94ca48.png)
 
 The outputs in the 2017 and 2018 stock analysis from the file VBA_Challenge.xlsm matched the AllStockAnalysis in the module. Which then allowed the dataset to be anaylized and run through the refactored code.
 
-### Dataset 2017
+### Dataset 2017: VBA_Challenge_2017.png
 ![2017Stocks](https://user-images.githubusercontent.com/86635590/126084754-89cdbc91-bd5c-429b-a63b-f88aca7ae11f.PNG)
-### Dataset 2018
+### Dataset 2018: VBA_Challenge_2018.png
 ![2018Stocks](https://user-images.githubusercontent.com/86635590/126084763-e69d5979-b060-47fa-a406-cc773b80c31b.PNG)
-
-
-
-#### Comments
-When refactoring code, it is not adding new functionality. The code is made more efficient-by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. The comments and documentation describing sections that are edited help other readers with following the code. This means avoiding adding comments that are not helpful or obvious to the reader are best described as being a Dry addtion so you are not repeating information. The best way to keep the code looking clean and easy to read comments is through having a consistent indentaion and code grouping. These comments can be viewed in the photo additions above as a short explanation to what the code is preforming.
 
 ## Summary
 ### Advantages and Disadvantages of refactoring code
+- the structure of the code can appear well written and allow for the debugging errors to be approached in a simpler manner
 ### Advantages and Disadvantages of original code
